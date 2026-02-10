@@ -1,7 +1,7 @@
 # Ronn-NG
 
 Ronn-NG is a new, currently-maintained fork of the defunct [original Ronn
-project](https://github.com/rtomayko/ronn).
+project](https://github.com/Unity-Billal-mesloub/ronn).
 
 Ronn builds manuals. It converts simple, human readable textfiles to roff for
 terminal display, and also to HTML for the web.
@@ -15,14 +15,14 @@ The `*.ronn` files found in the [`man/`][1] directory show off a wide range of
 ronn capabilities:
 
 * [ronn(1)](https://rtomayko.github.io/ronn/ronn.1.html) command –
-  [source file](https://github.com/apjanke/ronn-ng/blob/main/man/ronn.1.ronn),
-  [roff output](https://github.com/apjanke/ronn-ng/blob/main/man/ronn.1)
+  [source file](https://github.com/Unity-Billal-mesloub/ronn-ng/blob/main/man/ronn.1.ronn),
+  [roff output](https://github.com/Unity-Billal-mesloub/ronn-ng/blob/main/man/ronn.1)
 
 * [ronn-format(7)](https://rtomayko.github.io/ronn/ronn-format.7.html) file format –
-  [source file](https://github.com/apjanke/ronn-ng/blob/main/man/ronn-format.7.ronn),
-  [roff output](https://github.com/apjanke/ronn-ng/blob/main/man/ronn-format.7)
+  [source file](https://github.com/Unity-Billal-mesloub/ronn-ng/blob/main/man/ronn-format.7.ronn),
+  [roff output](https://github.com/Unity-Billal-mesloub/ronn-ng/blob/main/man/ronn-format.7)
 
-[1]: https://github.com/apjanke/ronn-ng/tree/main/man
+[1]: https://github.com/Unity-Billal-mesloub/ronn-ng/tree/main/man
 
 As an alternative, you might want to check out [pandoc](https://pandoc.org/) which can also convert markdown into roff manual pages.
 
@@ -128,7 +128,7 @@ Ronn-NG as a gem or other library, it requires gems as listed in `ronn-ng.gemspe
 
 ## Project Management
 
-The project home page is at <https://github.com/apjanke/ronn-ng>. Bug reports,
+The project home page is at <https://github.com/Unity-Billal-mesloub/ronn-ng>. Bug reports,
 feature requests, and patch submissions are welcome.
 
 Ronn-NG was forked from the original Ronn project in 2018 after Ronn
@@ -139,7 +139,7 @@ some bugs fixed.
 
 MIT License.
 
-Ronn is Copyright (C) 2010 [Ryan Tomayko](https://github.com/rtomayko).
+Ronn is Copyright (C) 2010 [Ryan Tomayko](https://github.com/Unity-Billal-mesloub).
 
 New Ronn-NG material is Copyright (C) 2018-2022 [Andrew Janke](https://apjanke.net) and other contributors.
 
