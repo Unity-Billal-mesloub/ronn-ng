@@ -139,12 +139,4 @@ some bugs fixed.
 
 MIT License.
 
-Ronn is Copyright (C) 2010 [Ryan Tomayko](https://github.com/Unity-Billal-mesloub).
 
-New Ronn-NG material is Copyright (C) 2018-2022 [Andrew Janke](https://apjanke.net) and other contributors.
-
-See the file LICENSE.txt for information of licensing and distribution.
-
-## Build Status
-
-![Travis build status](https://travis-ci.com/apjanke/ronn-ng.svg?branch=main)
